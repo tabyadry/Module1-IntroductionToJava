@@ -1,2 +1,2 @@
-# frq-phone-book
+# Module1-IntroductionToJava
 Exercices - training Java
